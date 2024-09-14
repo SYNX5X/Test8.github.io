@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: #7B8189;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+a:hover {
+    color: #FA4616  ; 
+}
+.box1{
+    border: solid 1px;
+    width: 400px;
+    height: 160px;
+    background-color: #f4f4f4;
+    border-radius: 7%;
+    padding: 5px;
+    margin-left: 7px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
